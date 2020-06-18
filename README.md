@@ -1,0 +1,2 @@
+# myProjectInCursor
+Home Work
